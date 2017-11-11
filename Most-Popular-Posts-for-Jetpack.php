@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name: Jetpack Statistiky
+ * Plugin Name: Most Popular Posts for Jetpack
  * Plugin URI: https://knytl.com
- * Description: Widget pro zobrazení statistik z Jetpack pluginu.
+ * Description: Wordpress widget showing most popular posts based on Jetpack stats.
  * Version: 0.1.1
  * Author: Jakub Knytl
  * Author URI: https://knytl.com
